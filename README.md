@@ -1,4 +1,4 @@
-# AI Journal Review
+# AI Journal Review - Skills
 
 A personal journaling system that uses AI to turn daily notes into monthly reviews and quarterly plans.
 
@@ -41,11 +41,11 @@ Copy these into your note-taking app. The daily template is designed to take 5 m
 
 ### Skills
 
-The skill files are structured instructions that tell an AI assistant how to read your notes and produce the reviews. They work with any AI tool that can access your notes — Claude, ChatGPT, or anything else with a notes connector.
+The skill files are structured instructions that tell an AI assistant how to read your notes and produce the reviews. I use these skills with Claude Cowork (Claude Desktop App).
 
 To use them:
-1. Give the AI access to your notes (via an MCP connector, copy-paste, or file access)
-2. Share the relevant skill file as instructions
+1. Connect the Apple Notes connector on the Claude Desktop App
+2. Add the skill files to the Customize section on the Claude Desktop App
 3. Tell it which month or quarter to review
 
 ## Getting started
@@ -58,8 +58,6 @@ To use them:
 The daily habit is the foundation. Start there. The reviews only work if you have entries to analyze.
 
 ## Why this exists
-
-Most AI content is about working faster or making money. This system uses AI for something different — understanding your own life better.
 
 I journaled daily for 6 months and manually wrote monthly reviews. It worked, but I was only catching what I remembered. When I ran AI across all my entries, it found patterns I'd missed entirely: recurring frustrations across weeks, habits forming without me tracking them, connections between a lesson in one month and a win two months later.
 

@@ -126,8 +126,7 @@ Use this exact structure. Every section must be filled. Write in prose with bull
 
 **Lessons Learned:** Synthesize across the daily "Lessons" entries but don't just copy-paste. Find the deeper thread. Aim for 7-10 distilled lessons.
 
-**Key Moments:** Chronological. Date-stamped with bold dates. Include significant dreams if the notes contain vivid ones with personal meaning.
-
+**Key Moments:** Chronological. Date-stamped with bold dates.
 **Review by Area:** Each area gets one dense paragraph. No bullet points inside these — write in flowing prose. Be specific and honest. End each area with a forward-looking observation.
 
 **Next Month Focus:** Exactly 3 priorities. These should emerge naturally from the challenges, lessons, and area reviews.
