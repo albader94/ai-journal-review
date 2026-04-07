@@ -1,5 +1,10 @@
 # AI Journal Review - Skills
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Apple Notes](https://img.shields.io/badge/Apple%20Notes-333333?logo=apple&logoColor=white)]()
+[![Claude Cowork](https://img.shields.io/badge/Claude%20Cowork-Anthropic-cc785c?logo=anthropic&logoColor=white)]()
+[![Markdown](https://img.shields.io/badge/Markdown-Templates-000000?logo=markdown&logoColor=white)]()
+
 A personal journaling system that uses AI to turn daily notes into monthly reviews and quarterly plans.
 
 Write daily notes by hand. Let AI find the patterns.
@@ -65,7 +70,7 @@ The quarterly review is where it gets powerful. Instead of guessing what to focu
 
 ## Credits
 
-The journal format was inspired by [My Forever Notes](https://www.myforevernotes.com/docs/journal). I adapted the template for my own workflow and built the AI automation layer on top.
+The journal navigation system and structure was inspired by [My Forever Notes](https://www.myforevernotes.com/docs/journal). I adapted it for my own workflow and built the AI automation layer on top.
 
 ## License
 
